@@ -72,3 +72,33 @@ h3 {
 	text-align: center;
 	background-image : url(image/banner.jpg);
 	background-size: cover;
+}
+h4 {
+	color:white;
+	font-family: 'Poiret One', cursive;
+	margin-left: 50px;
+}
+#banner2{
+	background-color: black;
+}
+.list-inline{
+	color:white;
+	font-size: 30px;
+	padding-bottom: 20px;
+	margin-left: 50px;
+}
+h6{
+	color:white;
+	font-size: 17px;
+	padding-top: 10px;
+	margin-left: 50px;
+}
+.no-padding{
+	padding:0px;
+}
+.mr10{
+	margin-right: 30px;
+}
+.white-icon{
+	color:white;
+}
