@@ -1,0 +1,74 @@
+FKstyle.css
+.image {
+	
+	border-radius: 50%;
+}
+#marie {
+	
+	
+	width : 250px;
+	
+	filter: grayscale(100%);
+}
+#damien {
+	
+	width : 250px;
+	filter: grayscale(100%);
+}
+#arthur {
+	
+	width : 250px;
+	filter: grayscale(100%);
+}
+#isa {
+	
+	width: 250px;
+	filter: grayscale(100%);
+}
+h1 {
+	font-family: 'Love Ya Like A Sister', cursive;
+	color: #E62A41;
+	font-size : 80px;
+	padding-top: 15px;
+
+}
+h2 {
+	font-family: 'Poiret One', cursive;
+	font-size: 25px;
+	padding-left: 15px;
+	color: white;
+}
+h3 {
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+	padding-top: 30px;
+}
+.card {
+	width : 250px;
+	min-height: 45%;
+}
+#logo {
+	width : 50px;
+}
+
+
+.coach {
+	padding-top: 50px;
+}
+.card-title {
+	font-size: 18px;
+}
+.card-text {
+	font-size: 14px;
+}
+.ligne2 {
+	padding-top: 50px;
+}
+
+
+#banner {
+	padding-top: 85px;
+	padding-bottom: 85px;
+	text-align: center;
+	background-image : url(image/banner.jpg);
+	background-size: cover;
