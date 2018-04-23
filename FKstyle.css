@@ -80,6 +80,7 @@ h4 {
 }
 #banner2{
 	background-color: black;
+	background-size: cover;
 }
 .list-inline{
 	color:white;
