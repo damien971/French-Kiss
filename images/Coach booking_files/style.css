@@ -6,3 +6,10 @@
 	padding-left: 25px;
 	border-radius: 50%;
 }
+#banner {
+	padding-top: 85px;
+	padding-bottom: 85px;
+	text-align: center;
+	background-image : url(image/banner.jpg);
+	background-size: cover;
+}
