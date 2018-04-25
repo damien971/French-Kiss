@@ -4,6 +4,12 @@ color: rgb(219, 56, 71);
 font-size: 117px;
 padding-top: 70px;
 }
+.h2M{
+font-family: 'Love Ya Like A Sister', cursive;
+color: rgb(219, 56, 71);
+font-size: 80px;
+padding-top: 40px;
+}
 h3{
 font-family: 'Poiret One', cursive;
 color: rgb(219, 56, 71);
@@ -20,9 +26,22 @@ background-repeat: no-repeat;
 background-size: cover;
 size: 100px;
 }
+#bannerupmarie {
+background-image: url(images/banner_marie.jpg);
+text-align: center;
+font-family: 'Poiret One', cursive;
+background-repeat: no-repeat;
+background-size: cover;
+size: 75px;
+}
 .myh2 {
 color:white;
 font-size: 50px;
+}
+.myh2M {
+color:white;
+font-size: 25px;
+padding-bottom: 50px;
 }
 .container{
 padding-top: 20px;
@@ -73,11 +92,17 @@ border-radius: 50%;
 h2{font-size: 10px}
 h1{
 font-family: 'Poiret One', cursive;
-font-size: 25px;
+font-size: 30px;
+text-align: center;
+color: rgb(219, 56, 71);
 }
 .bookingmarie{
-padding-top:20px
+padding-top:20px;
 padding-bottom:20px;
+}
+.photomarie{
+text-align: center;
+border-radius:50%;
 }
 #banner{
 background-image: url(images/frenchkisscoaching.jpg);
